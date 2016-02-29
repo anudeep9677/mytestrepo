@@ -1,9 +1,2 @@
-To enable namespace and subnamespaces privileges:
-Log on to the computer you want to monitor with an administrator account.
-Navigate to Start > Control Panel > Administrative Tools > Computer Management > Services and Applications. You need to switch to the Classic View of the Control Panel to use this navigation path.
-Click WMI Control, and then right-click and select Properties.
-Select the Security tab, and then expand Root and click CIMV2.
-Click Security and then select the user account used to access this computer and ensure you grant the following permissions:
-Enable Account
 Remote Enable
 
